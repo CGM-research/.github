@@ -2,9 +2,9 @@
 
 # Main products
 
-## GeoMathix - 3d engine for math calculations
+## [GeoMathix](https://github.com/CGM-research/GeoMathix) - 3d engine for math calculations
 ![webwizz-banner](https://github.com/CGM-research/Design-resources/blob/main/Pictures%2Fbanner.jpg)
-## WebWizz - a powerful web-development tool
+## [WebWizz](https://github.com/CGM-research/WebWizz-CGM) - a powerful web-development tool
 ![webwizz-banner](https://github.com/CGM-research/WebWizz-CGM/blob/main/ExtraFiles/banner.png)
 
 @ CGM research team (@Wafflelover404)
