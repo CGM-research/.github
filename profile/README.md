@@ -6,6 +6,7 @@
 ![webwizz-banner](https://github.com/CGM-research/Design-resources/blob/main/Pictures%2Fbanner.jpg)
 ## [WebWizz](https://github.com/CGM-research/WebWizz-CGM) - a powerful web-development tool
 ![webwizz-banner](https://github.com/CGM-research/WebWizz-CGM/blob/main/ExtraFiles/banner.png)
+## [SiteAnalyzisTool (α)](https://github.com/CGM-research/SiteAnalyzis) - A tool for building HTML structure analyzing.
 
 @ CGM research team
 - [@Wafflelover404](https://github.com/wafflelover404) - Main developer, owner.
