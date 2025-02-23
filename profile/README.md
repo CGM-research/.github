@@ -7,7 +7,9 @@
 ## [WebWizz](https://github.com/CGM-research/WebWizz-CGM) - a powerful web-development tool
 ![webwizz-banner](https://github.com/CGM-research/WebWizz-CGM/blob/main/ExtraFiles/banner.png)
 
-@ CGM research team ([@Wafflelover404](https://github.com/wafflelover404))
+@ CGM research team {
+- [@Wafflelover404](https://github.com/wafflelover404) - Main developer, owner.
+};
 
 <!--
 
