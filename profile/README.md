@@ -1,6 +1,6 @@
 # CGM-research team
 
-# Main products
+# Our products
 
 ## [GeoMathix](https://github.com/CGM-research/GeoMathix) - 3d engine for math calculations
 ![webwizz-banner](https://github.com/CGM-research/Design-resources/blob/main/Pictures%2Fbanner.jpg)
