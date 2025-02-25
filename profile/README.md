@@ -2,11 +2,11 @@
 
 # Our products
 
-## [GeoMathix](https://github.com/CGM-research/GeoMathix) - 3d engine for math calculations
+## [GeoMathix](https://github.com/CGM-research/GeoMathix) - 3d engine for math calculations (Stack: C, C++, OpenGL - GFMl, GML, QT).
 ![webwizz-banner](https://github.com/CGM-research/Design-resources/blob/main/Pictures%2Fbanner.jpg)
-## [WebWizz](https://github.com/CGM-research/WebWizz-CGM) - a powerful web-development tool
+## [WebWizz](https://github.com/CGM-research/WebWizz-CGM) - a powerful web-development tool (Stack: Python, Streamlit, Sqlite, Request, G4f).
 ![webwizz-banner](https://github.com/CGM-research/WebWizz-CGM/blob/main/ExtraFiles/banner.png)
-## [SiteAnalyzisTool (α)](https://github.com/CGM-research/SiteAnalyzis) - A tool for building HTML structure analyzis.
+## [SiteAnalyzisTool (α)](https://github.com/CGM-research/SiteAnalyzis) - A tool for building HTML structure analyzis. (Stack: C++, Curl).
 
 @ CGM research team
 - [@Wafflelover404](https://github.com/wafflelover404) - Main developer, owner.
